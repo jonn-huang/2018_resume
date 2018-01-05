@@ -14,6 +14,7 @@
  - 黄强/男/1990 
  - 专科/江西信息工程学院/信息技术应用 
  - 工作年限：5年
+ - 婚姻状况：已婚
  - Github：https://jonn-huang.github.io/resume/
 
  - 期望职位：Java高级开发工程师，架构师
