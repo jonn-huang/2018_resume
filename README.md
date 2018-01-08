@@ -18,7 +18,7 @@
  - Github：https://jonn-huang.github.io/resume/
 
  - 期望职位：Java高级开发工程师，架构师
- - 期望薪资：税前月薪20-25k,可面谈
+ - 期望薪资：税前月薪25k
  - 期望城市：北京
 
 ---
